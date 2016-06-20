@@ -33,7 +33,17 @@
 ### 第十一次作业
  - [行星运动](https://www.zybuluo.com/2013301510087/note/408050)
 
+### 第十二次作业
+ - [三体](https://www.zybuluo.com/2013301510087/note/413088)
 
+### 第十三次作业
+ - [电场](https://www.zybuluo.com/2013301510087/note/413103)
+
+### 第十四次作业
+ - [波](https://www.zybuluo.com/2013301510087/note/413114)
+
+### 期末作业
+ - [期末](https://github.com/wangziyan0087/computationalphysics_N2013301020064/blob/master/homework/%E7%8E%8B%E7%B4%AB%E5%AB%A3%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86.pdf)
 
 ## my name is liu'hao'tian.
 **Hello !**
